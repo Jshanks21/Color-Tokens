@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f67c8e8935d60c33eb01",
+    "revision": "ed5c8ce8c22f198005c9",
     "url": "/Color-Tokens/static/css/main.1bd1f612.chunk.css"
   },
   {
-    "revision": "f67c8e8935d60c33eb01",
-    "url": "/Color-Tokens/static/js/main.f67c8e89.chunk.js"
+    "revision": "ed5c8ce8c22f198005c9",
+    "url": "/Color-Tokens/static/js/main.ed5c8ce8.chunk.js"
   },
   {
     "revision": "1a408848b34df688243f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Color-Tokens/static/js/runtime~main.24b12a8e.js"
   },
   {
-    "revision": "d1ee5080e4f28cb63bfa83aa55e52eca",
+    "revision": "45fd12c1bbec6b52b7e03b2880c5b3cd",
     "url": "/Color-Tokens/index.html"
   }
 ];
