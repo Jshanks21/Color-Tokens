@@ -46,7 +46,7 @@ class App extends Component {
         })
       }
     } else {
-      window.alert('Smart contract not deployed to detected network.')
+      window.alert('Smart contract not deployed to detected network. Please switch to the Ropsten Test Network.')
     }
 
   }
